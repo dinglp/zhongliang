@@ -10,6 +10,7 @@ import com.wanhe.zhongliang.utils.SPUtil;
 
 public class SplashActivity extends BaseActivity {
 	private Context context;
+//	private String = "1`2"''
 	private Handler handler = new Handler() {
 		public void handleMessage(android.os.Message msg) {
 			if (!TextUtils.isEmpty((String) SPUtil.get(getApplicationContext(),"isfirstIn"))) {
