@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.wanhe.wanxingren"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    //网络
+    compile 'com.zhy:okhttputils:2.6.2'
+    //注解及快速初始化
+    compile 'com.jakewharton:butterknife:7.0.1'
+    //解析
+    compile files('libs/fastjson-1.2.5.jar')
+    //Glide加载图片
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    //标签使用
+    compile 'com.zhy:flowlayout-lib:1.0.3'
+    //通用baseAdapter
+    compile 'com.zhy:base-rvadapter:3.0.3'
+    compile 'com.zhy:base-adapter:3.0.3'
+    //自动布局，解决适配问题   //对于listview，注意添加这一行，即可在item上使用高度AutoUtils.autoSize(convertView);
+    compile 'com.zhy:autolayout:1.4.3'
+    //时间选择器
+    compile 'com.bigkoo:pickerview:2.1.1'
+    compile 'com.github.bumptech.glide:okhttp3-integration:1.4.0@aar'
+    compile 'com.shizhefei:ViewPagerIndicator:1.1.3'
+    compile 'com.android.support:recyclerview-v7:23.2.1'
+    compile 'com.baoyz.swipemenulistview:library:1.3.0'
+    compile 'com.jaeger.ninegridimageview:library:1.0.2'
+}

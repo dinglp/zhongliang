@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="blood_type">
+        <item>O型</item>
+        <item>A型</item>
+        <item>B型</item>
+        <item>AB型</item>
+        <item>未知</item>
+    </string-array>
+    <string-array name="baby_name">
+        <item>依依</item>
+        <item>程程</item>
+        <item>圆圆</item>
+    </string-array>
+
+</resources>

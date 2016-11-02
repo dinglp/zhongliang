@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="titleBgColor">#000000</color>
+    <color name="line_gray">#999999</color>
+    <!--标题背景色-->
+    <color name="bg_title">#1D2D47</color>
+    <color name="text_green">#61E9C2</color>
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--浅灰色-->
+    <color name="line_gray_light">#E5E5E5</color>
+    <!--标题颜色-->
+    <color name="title_textcolor">#515151</color>
+    <!--导航字体颜色-->
+    <color name="bottom_textcolor">#b2b2b2</color>
+    <!--标题右侧按钮颜色-->
+    <color name="title_right1textcolor">#515151</color>
+    <!--标题右侧按钮颜色-->
+    <color name="title_right2textcolor">#515151</color>
+    <!--按钮的白色字体-->
+    <color name="btn_white_text">#F6F6F6</color>
+    <!--红色字体-->
+    <color name="red_text">#FD728F</color>
+    <!--浅灰色文字-->
+    <color name="text_gray_light">#999999</color>
+    <!--注册协议颜色-->
+    <color name="register_protocol_red">#FD728F</color>
+    <!--白色-->
+    <color name="white">#FFFFFF</color>
+    <!--白色-->
+    <color name="timer_black_text">#676767</color>
+    <!--白色-->
+    <color name="welcome_into_btn_green">#58CBA4</color>
+    <!--红色-->
+    <color name="red_round_add">#FB5676</color>
+    <!--透明-->
+    <color name="transparent">#00000000</color>
+    <!--蓝色-->
+    <color name="blue_text">#00A0E9</color>
+    <!--红色电话号-->
+    <color name="red_phone_text">#FB5676</color>
+</resources>

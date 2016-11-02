@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">中粮</string>
+    <string name="login_phone_hint">请输入手机号</string>
+    <string name="login_vercode_hint">请输入验证码</string>
+    <string name="login_new_pwd_hint">请输入新密码(6-24位字母加数字)</string>
+    <string name="login_btn">登录</string>
+    <string name="register_btn">注册</string>
+    <string name="forgot_pwd">找回密码</string>
+    <string name="login_third">第三方登录</string>
+    <string name="record_text_timepicker">请输日期</string>
+    <string name="record_topic_title">主题</string>
+    <string name="record_topic_detail_hint">输入随想记录宝贝生活的点点滴滴，表达对宝贝的爱和期待......</string>
+    <string name="record_add_video">添加视频</string>
+    <string name="record_add_pic">添加照片</string>
+    <string name="record_publish">发表</string>
+
+
+<!--自定义弹窗-->
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="dismiss">隐藏</string>
+    <string name="prompt">提示</string>
+    <string name="exit_app">你确定要退出应用吗?</string>
+    <string name="delete_download">将同时删除本地文档，您确定要删除吗？</string>
+    <string name="upload_video">— 上传视频 —</string>
+    <string name="dialog_findbaby_content">此功能为寻找丢失儿童，此功能为寻找丢失儿童此功能为
+        寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童
+        寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童
+        寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童
+        寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童此功能为寻找丢失儿童
+        寻找丢失儿童此功能为寻找丢失儿童此功
+    </string>
+    <string name="select">%1$s/%2$s</string>
+    <string name="report_standard"><u>觅宝举报规范</u></string>
+    <string name="call_building_owner">\@楼主</string>
+</resources>
